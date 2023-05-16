@@ -7,7 +7,7 @@ export function Summary() {
             <div>
                 <header>
                     <span>Entrada</span>
-                    <ArrowCircleUp size={32} color="#88b37e" />
+                    <ArrowCircleUp size={32} color="#00b37e" />
                 </header>
 
                 <strong>R$ 100.00,00</strong>
