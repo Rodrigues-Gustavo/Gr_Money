@@ -22,7 +22,7 @@ export function Summary() {
             </div>
             <div>
                 <header>
-                    <span>Saída</span>
+                    <span>Total</span>
                     <CurrencyDollar size={32} color="#fff" />
                 </header>
 
