@@ -3,7 +3,7 @@ import { Header } from "../../components/Header";
 import { Summary } from "../../components/Summary";
 import { SearchForm } from "./components/SearchForm";
 import { PriceHighlight, TransactionsContainer, TransactionsTable } from "./styles";
-import { TransactionsContext } from '../../components/TransactionsContext';
+import { TransactionsContext } from '../../contexts/TransactionsContext';
 
 export function Transactions() {
     const { transactions } = useContext(TransactionsContext)
