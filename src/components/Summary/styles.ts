@@ -11,6 +11,10 @@ export const SummaryContainer = styled.section`
   gap: 2rem;
 
   margin-top: -5rem;
+
+  @media screen and (max-width: 850px) {
+    grid-template-columns: repeat(1, 1fr);
+  }
 `
 
 interface SummaryCardProps {
