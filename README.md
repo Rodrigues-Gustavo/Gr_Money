@@ -18,7 +18,7 @@ Welcome! This respostitory contains my solution for Rocketseat´s open source Fr
 
 The goal with this project was to better develop my Frontend Developer skills and solidify my knowledge in React and Typescript.
 </br></br>
-The challenge is to implement an e-commerce for the sale of mugs and t-shirts that should have the following functionalities:
+functionalities:
 </br></br>
 ✅
 ✅
