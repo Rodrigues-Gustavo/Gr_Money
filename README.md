@@ -28,9 +28,6 @@ functionalities:
 
  <h1 id="technologies"> 🧠 Technologies</h1>
 
-<li>Use React.js and Typescript</li>
-<li>Create components with styled-components</li>
-<li>using react-hook-form and zod to validate the forms</li>
 
  <h1 id="installation"> 🧑‍💻 Installation</h1>
 
