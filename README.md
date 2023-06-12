@@ -22,7 +22,7 @@ The goal with this project was to better develop my Frontend Developer skills an
 functionalities:
 </br></br>
 ✅
-✅
+
 
 </br></br>
 
