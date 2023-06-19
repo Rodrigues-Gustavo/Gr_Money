@@ -21,7 +21,7 @@ The goal with this project was to better develop my Frontend Developer skills an
 </br></br>
 functionalities:
 </br></br>
-✅
+✅✅
 
 
 </br></br>
