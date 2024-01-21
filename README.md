@@ -1,6 +1,6 @@
 # Gr_Money
 
-<p>🚧the app is under development🚧</p>
+<h1>🚧the project is paused🚧</h1>
 <a href="">test project</a>
 
 Welcome! This respostitory contains my solution for Rocketseat´s open source Frontend Challenge.
@@ -20,9 +20,6 @@ Welcome! This respostitory contains my solution for Rocketseat´s open source Fr
 The goal with this project was to better develop my Frontend Developer skills and solidify my knowledge in React and Typescript.
 </br></br>
 functionalities:
-</br></br>
-✅✅
-
 
 </br></br>
 
